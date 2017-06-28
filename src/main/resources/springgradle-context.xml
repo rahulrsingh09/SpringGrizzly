@@ -7,5 +7,5 @@ http://www.springframework.org/schema/beans http://www.springframework.org/schem
 http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.2.xsd">
 
     <context:annotation-config/>
-    <!--<context:component-scan base-package="net.viralpatel.spring.controller"/>-->
+    <context:component-scan base-package="net.viralpatel.spring"/>
 </beans>
